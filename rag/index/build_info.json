@@ -1,0 +1,5 @@
+{
+  "embedding_model": "BAAI/bge-m3",
+  "chunks_count": 200,
+  "files_count": 34
+}
